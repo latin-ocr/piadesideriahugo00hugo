@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./piadesideriahugo00hugo_0134.png"; bbox 0 0 1106 2328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 21 13 687 74">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 21 13 687 74">
+     <span class='ocr_line' id='line_1_1' title="bbox 21 13 687 74; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 21 17 166 74; x_wconf 25' lang='lat'>⁴¹⁰4</span> <span class='ocrx_word' id='word_1_2' title='bbox 411 13 687 66; x_wconf 71' lang='lat' dir='ltr'>VOTA.·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 77 248 1106 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 77 248 1106 1616">
+     <span class='ocr_line' id='line_1_2' title="bbox 77 248 1106 1616; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 77 248 1106 1616; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 107 1613 1083 1851">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 117 1613 1083 1828">
+     <span class='ocr_line' id='line_1_3' title="bbox 117 1613 1083 1688; baseline -0.018 -18"><span class='ocrx_word' id='word_1_4' title='bbox 117 1616 341 1674; x_wconf 65' lang='lat' dir='ltr'><em>Paullulz:</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 328 1636 434 1667; x_wconf 69' lang='lat' dir='ltr'><em>eum</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 440 1606 1083 1688; x_wconf 69' lang='lat' dir='ltr'><em>pedransffemeosumcmque</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1080 1638 1081 1641; x_wconf 60' lang='lat'><em>=</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 122 1691 946 1768; baseline -0.021 -18"><span class='ocrx_word' id='word_1_8' title='bbox 122 1699 296 1768; x_wconf 64' lang='lat' dir='ltr'><em>mdilz</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 299 1702 333 1745; x_wconf 81' lang='lat' dir='ltr'><em>iz</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 350 1699 504 1751; x_wconf 76' lang='lat' dir='ltr'><em>anima</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 518 1710 616 1743; x_wconf 71' lang='lat' dir='ltr'><em>mea</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 631 1691 755 1741; x_wconf 67' lang='lat' dir='ltr'><em>tenui</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 762 1708 946 1739; x_wconf 80' lang='lat' dir='ltr'><em>eumnec</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 107 1769 647 1851; baseline -0.018 -28.395"><span class='ocrx_word' id='word_1_14' title='bbox 107 1769 360 1823; x_wconf 66' lang='lat' dir='ltr'><em>dzmz&#39;itani</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 391 1772 509 1821; x_wconf 70' lang='lat' dir='ltr'><em>Cant</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 535 1790 575 1851; x_wconf 94' lang='lat'>3</span> <span class='ocrx_word' id='word_1_17' title='bbox 645 1778 647 1781; x_wconf 87' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
